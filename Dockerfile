@@ -1,4 +1,4 @@
-FROM visualfox/rpi-redis:latest
+FROM arm32v7/redis:latest
 
 ENV TERM=XTERM
 
